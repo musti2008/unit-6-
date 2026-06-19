@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Us - GlobalGetaways</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo-box">
+            <img src="GlobalGetaways Logo.jpg" alt="GlobalGetaways Logo">
+        </div>
+
+        <h1>GlobalGetaways</h1>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.us.html">About Us</a>
+            <a href="destinations.html">Destinations</a>
+            <a href="contact.us.html">Contact Us</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro-section">
+            <h2>Our Story & Mission</h2>
+            <p><strong>Our History:</strong> Founded in 2026 right here in Liverpool, GlobalGetaways Ltd. started as a small team of passionate backpackers determined to simplify holiday planning. Over the years, we have grown into a premier travel hub, helping thousands of travelers find hidden gems across the globe.</p>
+            <p><strong>Mission & Vision:</strong> Our mission is to craft and suggest unforgettable, tailor-made travel experiences. We envision a world where every traveler can access authentic, culturally rich, and hassle-free adventures, fostering a deep respect for global communities.</p>
+        </section>
+
+        <h2>Meet Our Expert Team</h2>
+        <section class="team-grid">
+            
+            <div class="team-card">
+                <img src="woman.jpg" alt="Stephanie Pope">
+                <div class="team-content">
+                    <h3>Stephanie Pope</h3>
+                    <p class="role">Founder & Lead Explorer</p>
+                    <p>Stephanie has traveled to over 65 countries across six continents. Her favorite adventure was trekking the Inca Trail in Peru. She specializes in sourcing off-the-beaten-path cultural experiences.</p>
+                </div>
+            </div>
+
+            <div class="team-card">
+                <img src="glenn-d-fogel.jpeg" alt="Glenn D. Fogel">
+                <div class="team-content">
+                    <h3>Glenn D. Fogel</h3>
+                    <p class="role">Destination Strategist</p>
+                    <p>With a background in hospitality management and a passion for alpine landscapes, Glenn ensures our recommended itineraries are seamless. His specialty is luxury eco-lodges and mountain trails.</p>
+                </div>
+            </div>
+
+        </section>
+
+        <section class="partners-section">
+            <h2>Our Trusted Partners</h2>
+            <p>To foster ultimate trust and safety among our travelers, GlobalGetaways Ltd. proudly collaborates with industry leaders, including:</p>
+            <ul class="partners-list">
+                <li><strong>Apex Travel Agencies</strong> – Seamless transit and local flight coordination.</li>
+                <li><strong>Vanguard Eco-Hotels</strong> – Sustainable, premium accommodations.</li>
+                <li><strong>Local Guide Alliance</strong> – Certified, native experts offering authentic historical insight.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>3 Wanderlust Lane, Liverpool, L1 8XX | Phone: +44 151 4567 890 | Email: travel@globalgetaways.co.uk</p>
+        <p>&copy; 2026 GlobalGetaways Ltd. | Reg No: 34567812</p>
+
+        <nav class="social-nav">
+            <a href="https://facebook.com" target="_blank">Facebook</a>
+            <a href="https://twitter.com" target="_blank">Twitter</a>
+            <a href="https://instagram.com" target="_blank">Instagram</a>
+        </nav>
+
+        <nav class="footer-legal">
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Service</a>
+            <a href="#">Contact</a>
+        </nav>
+    </footer>
+
+</body>
+</html>
